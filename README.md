@@ -8,11 +8,15 @@ Quantitative evaluation of right ventricular (RV) volumes is of paramount import
 ![face](https://github.com/tuanaqeelbohoran/RV-Volume-Prediction/assets/120468459/b010a7e6-8d6c-4e40-9e23-14ccfdb8ad90)
 
 **The patent details are as below**
+
 United States Patent and Trademark Office (USPTO)
+
 Electronic Filing System ID: 48081004Title of the Invention: Systems and methods for attention-based deep learning for right ventricular quantification using two-dimensional echocardiography
  
 Application number: 63469990
+
 Attorney Docket Number: 070050.6706
+
 Receipt Date: 31st May 2023
 
 ### References
