@@ -11,7 +11,9 @@ Quantitative evaluation of right ventricular (RV) volumes is of paramount import
 
 United States Patent and Trademark Office (USPTO)
 
-Electronic Filing System ID: 48081004Title of the Invention: Systems and methods for attention-based deep learning for right ventricular quantification using two-dimensional echocardiography
+Electronic Filing System ID: 48081004
+
+Title of the Invention: Systems and methods for attention-based deep learning for right ventricular quantification using two-dimensional echocardiography
  
 Application number: 63469990
 
